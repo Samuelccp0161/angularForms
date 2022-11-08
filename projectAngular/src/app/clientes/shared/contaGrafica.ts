@@ -1,8 +1,6 @@
-export class Cliente {
-    login: string = '';
-    password: string = '';
-    contaGrafica: string='';
-  }
+export class ContaGrafica {
+    conta: string='';
+}
 
 /*
 O que eu preciso fazer:
